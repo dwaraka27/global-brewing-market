@@ -1,0 +1,501 @@
+Record_ID,Year,Region,Country,Ingredient_Category,Form,Brewery_Type,Sales_Volume_MT,Avg_Price_USD_per_MT,Revenue_USD_Thousand
+REC-10135,2025,Asia-Pacific,Australia,Hops,Liquid,Microbrewery / Craft Brewery,4588.07,3488.94,16007.5
+REC-10374,2025,Asia-Pacific,Australia,Adjuncts / Grains,Dry,Macro Brewery,16001.44,3856.8,61714.35
+REC-10012,2025,Asia-Pacific,China,Malt Extract,Dry,Microbrewery / Craft Brewery,6317.12,2851.99,18016.36
+REC-10223,2025,Asia-Pacific,China,Beer Yeast,Liquid,Microbrewery / Craft Brewery,19958.16,4401.85,87852.83
+REC-10118,2025,Asia-Pacific,India,Beer Additives,Liquid,Microbrewery / Craft Brewery,16987.68,3775.21,64132.06
+REC-10241,2025,Asia-Pacific,Japan,Hops,Liquid,Microbrewery / Craft Brewery,14735.335,2222.3,32746.33
+REC-10246,2025,Asia-Pacific,Japan,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,14551.46,2026.54,29489.12
+REC-10434,2025,Asia-Pacific,Japan,Beer Additives,Dry,Macro Brewery,13507.97,2215.73,29930.01
+REC-10109,2025,Asia-Pacific,Vietnam,Hops,Liquid,Microbrewery / Craft Brewery,1571.61,3114.29,4894.45
+REC-10114,2025,Asia-Pacific,Vietnam,Beer Yeast,Dry,Microbrewery / Craft Brewery,15640.75,4150.51,64917.09
+REC-10216,2025,Asia-Pacific,Vietnam,Malt Extract,Dry,Macro Brewery,22781.64,3794.48,86444.48
+REC-10028,2025,Europe,Czech Republic,Hops,Liquid,Macro Brewery,3930.59,4017.49,15791.11
+REC-10336,2025,Europe,Czech Republic,Beer Additives,Liquid,Microbrewery / Craft Brewery,14036.27,2516.82,35326.77
+REC-10117,2025,Europe,France,Hops,Dry,Macro Brewery,11033.31,2584.18,28512.06
+REC-10098,2025,Europe,Germany,Beer Yeast,Dry,Macro Brewery,18237.34,1535.95,28011.64
+REC-10400,2025,Europe,UK,Adjuncts / Grains,Dry,Macro Brewery,20643.41,4289.73,88554.66
+REC-10193,2025,Latin America,Argentina,Beer Yeast,Dry,Microbrewery / Craft Brewery,8889.98,4278.65,38037.11
+REC-10489,2025,Latin America,Brazil,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,19642.39,1766.59,34700.05
+REC-10146,2025,Latin America,Colombia,Beer Additives,Liquid,Microbrewery / Craft Brewery,10535.91,1200.04,12643.51
+REC-10233,2025,Latin America,Colombia,Beer Yeast,Dry,Macro Brewery,9695.58,4046.71,39235.2
+REC-10265,2025,Latin America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,3793.66,2628.13,9970.23
+REC-10422,2025,Latin America,Mexico,Beer Yeast,Dry,Microbrewery / Craft Brewery,3232.05,3886.61,12561.72
+REC-10158,2025,Middle East & Africa,Kenya,Malt Extract,Liquid,Macro Brewery,12883.65,1940.17,24996.47
+REC-10463,2025,Middle East & Africa,Kenya,Beer Yeast,Liquid,Microbrewery / Craft Brewery,1078.08,3616.92,3899.33
+REC-10495,2025,Middle East & Africa,Kenya,Hops,Dry,Microbrewery / Craft Brewery,17016.19,1580.8,26899.19
+REC-10081,2025,Middle East & Africa,Nigeria,Beer Additives,Liquid,Macro Brewery,9541.8,1348.21,12864.35
+REC-10240,2025,Middle East & Africa,Nigeria,Beer Yeast,Liquid,Macro Brewery,14643.34,1719.0,25171.9
+REC-10288,2025,Middle East & Africa,Nigeria,Adjuncts / Grains,Liquid,Macro Brewery,2670.82,3635.02,9708.48
+REC-10416,2025,Middle East & Africa,Nigeria,Hops,Dry,Macro Brewery,17973.57,1726.32,31028.13
+REC-10480,2025,Middle East & Africa,Nigeria,Beer Additives,Liquid,Microbrewery / Craft Brewery,24787.53,1924.53,47704.35
+REC-10132,2025,Middle East & Africa,South Africa,Hops,Liquid,Microbrewery / Craft Brewery,7728.5,3875.9,29954.89
+REC-10282,2025,Middle East & Africa,South Africa,Hops,Dry,Macro Brewery,18958.98,1422.76,26974.08
+REC-10048,2025,Middle East & Africa,UAE,Beer Additives,Liquid,Macro Brewery,23327.97,2920.82,68136.8
+REC-10324,2025,North America,Canada,Beer Additives,Liquid,Microbrewery / Craft Brewery,3511.56,3630.57,12748.96
+REC-10386,2025,North America,Canada,Beer Yeast,Liquid,Microbrewery / Craft Brewery,19654.68,3128.68,61493.2
+REC-10025,2025,North America,Mexico,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,9365.4,3984.04,37312.13
+REC-10111,2025,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,14186.74,3703.96,52547.12
+REC-10232,2025,North America,USA,Hops,Liquid,Macro Brewery,14923.92,3570.9,53291.83
+REC-10325,2025,North America,USA,Hops,Dry,Microbrewery / Craft Brewery,22272.15,4113.88,91624.95
+REC-10348,2025,North America,USA,Beer Yeast,Dry,Microbrewery / Craft Brewery,503.3,2053.75,1033.65
+REC-10389,2025,North America,USA,Hops,Dry,Macro Brewery,9321.24,2415.88,22519.0
+REC-10461,2025,North America,USA,Malt Extract,Liquid,Microbrewery / Craft Brewery,24367.76,1206.57,29401.41
+REC-10498,2025,North America,USA,Malt Extract,Dry,Macro Brewery,22978.4,2312.78,53143.98
+REC-10196,2026,Asia-Pacific,Australia,Malt Extract,Dry,Macro Brewery,14163.87,3557.28,50384.85
+REC-10245,2026,Asia-Pacific,Australia,Malt Extract,Liquid,Microbrewery / Craft Brewery,19230.93,3829.05,73636.19
+REC-10317,2026,Asia-Pacific,Australia,Beer Yeast,Liquid,Microbrewery / Craft Brewery,12172.71,2094.62,25497.2
+REC-10003,2026,Asia-Pacific,China,Malt Extract,Liquid,Microbrewery / Craft Brewery,11147.6,1405.27,15665.39
+REC-10425,2026,Asia-Pacific,China,Beer Additives,Dry,Microbrewery / Craft Brewery,20969.27,2154.32,45174.52
+REC-10250,2026,Asia-Pacific,India,Hops,Dry,Macro Brewery,21422.07,4190.09,89760.4
+REC-10094,2026,Asia-Pacific,Japan,Hops,Liquid,Macro Brewery,16084.35,3366.88,54154.08
+REC-10112,2026,Asia-Pacific,Vietnam,Beer Additives,Dry,Microbrewery / Craft Brewery,8907.6,2132.24,18993.14
+REC-10321,2026,Europe,Belgium,Hops,Liquid,Microbrewery / Craft Brewery,13022.66,1549.49,20178.48
+REC-10352,2026,Europe,Belgium,Hops,Dry,Macro Brewery,17820.92,3145.2,56050.36
+REC-10378,2026,Europe,Czech Republic,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,17969.63,1860.93,33440.22
+REC-10006,2026,Europe,France,Hops,Liquid,Microbrewery / Craft Brewery,22366.82,3282.04,73408.8
+REC-10381,2026,Europe,Germany,Hops,Liquid,Microbrewery / Craft Brewery,19145.43,3635.13,69596.13
+REC-10313,2026,Europe,UK,Beer Additives,Dry,Microbrewery / Craft Brewery,23266.09,3430.89,79823.4
+REC-10363,2026,Latin America,Argentina,Malt Extract,Dry,Microbrewery / Craft Brewery,8177.02,1907.54,15597.99
+REC-10367,2026,Latin America,Argentina,Malt Extract,Dry,Microbrewery / Craft Brewery,22793.61,2714.5,61873.25
+REC-10033,2026,Latin America,Brazil,Malt Extract,Liquid,Macro Brewery,5304.39,4482.9,23779.05
+REC-10050,2026,Latin America,Brazil,Malt Extract,Dry,Microbrewery / Craft Brewery,2633.77,3699.12,9742.63
+REC-10209,2026,Latin America,Brazil,Hops,Dry,Microbrewery / Craft Brewery,5432.15,3513.86,19087.81
+REC-10340,2026,Latin America,Brazil,Hops,Dry,Microbrewery / Craft Brewery,7149.53,4424.12,31630.38
+REC-10420,2026,Latin America,Brazil,Hops,Liquid,Microbrewery / Craft Brewery,9510.76,3391.92,32259.74
+REC-10482,2026,Latin America,Colombia,Malt Extract,Dry,Macro Brewery,24087.82,3233.79,77894.95
+REC-10224,2026,Latin America,Mexico,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,7256.31,2644.28,19187.72
+REC-10253,2026,Latin America,Mexico,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,22380.71,2254.965,50467.72
+REC-10130,2026,Middle East & Africa,Kenya,Malt Extract,Dry,Microbrewery / Craft Brewery,11971.395,2199.67,26333.12
+REC-10192,2026,Middle East & Africa,Nigeria,Malt Extract,Dry,Microbrewery / Craft Brewery,11971.395,2418.63,28954.38
+REC-10038,2026,Middle East & Africa,South Africa,Hops,Liquid,Macro Brewery,634.89,2642.09,1677.44
+REC-10297,2026,Middle East & Africa,South Africa,Hops,Dry,Microbrewery / Craft Brewery,23718.36,2148.62,50961.74
+REC-10002,2026,Middle East & Africa,UAE,Hops,Dry,Microbrewery / Craft Brewery,8265.19,3535.48,29221.41
+REC-10187,2026,Middle East & Africa,UAE,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,20924.42,3557.6,74440.72
+REC-10392,2026,Middle East & Africa,UAE,Hops,Dry,Microbrewery / Craft Brewery,7728.5,3798.38,29355.78
+REC-10474,2026,Middle East & Africa,UAE,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,18812.39,2913.44,54808.77
+REC-10235,2026,North America,Canada,Beer Additives,Dry,Microbrewery / Craft Brewery,5478.97,3840.01,21039.3
+REC-10242,2026,North America,Canada,Beer Yeast,Liquid,Macro Brewery,10901.255,2203.86,24024.84
+REC-10359,2026,North America,Canada,Malt Extract,Liquid,Macro Brewery,2996.36,4095.65,12272.04
+REC-10496,2026,North America,Canada,Beer Additives,Liquid,Microbrewery / Craft Brewery,6867.67,3198.61,21967.0
+REC-10156,2026,North America,Mexico,Malt Extract,Liquid,Macro Brewery,12396.95,3606.84,44713.82
+REC-10095,2026,North America,USA,Beer Yeast,Dry,Microbrewery / Craft Brewery,22875.53,1993.32,45598.25
+REC-10255,2026,North America,USA,Malt Extract,Dry,Microbrewery / Craft Brewery,22144.89,2149.19,47593.58
+REC-10283,2026,North America,USA,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,19338.61,2911.71,56308.42
+REC-10391,2026,North America,USA,Malt Extract,Dry,Microbrewery / Craft Brewery,12759.83,3399.33,43374.87
+REC-10007,2027,Asia-Pacific,Australia,Hops,Dry,Macro Brewery,14735.335,2677.32,39451.21
+REC-10298,2027,Asia-Pacific,Australia,Malt Extract,Dry,Microbrewery / Craft Brewery,2271.75,3367.3,7649.66
+REC-10443,2027,Asia-Pacific,Australia,Malt Extract,Liquid,Macro Brewery,19436.58,2496.01,48513.9
+REC-10447,2027,Asia-Pacific,Australia,Malt Extract,Dry,Microbrewery / Craft Brewery,915.22,4034.1,3692.09
+REC-10031,2027,Asia-Pacific,China,Malt Extract,Dry,Microbrewery / Craft Brewery,8618.0,1849.85,15942.01
+REC-10096,2027,Asia-Pacific,China,Beer Yeast,Dry,Macro Brewery,15508.05,1832.26,28414.78
+REC-10131,2027,Asia-Pacific,China,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,15226.32,2551.06,38843.26
+REC-10136,2027,Asia-Pacific,China,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,11047.97,3744.71,41371.44
+REC-10256,2027,Asia-Pacific,China,Malt Extract,Dry,Microbrewery / Craft Brewery,11483.82,2212.36,25406.34
+REC-10376,2027,Asia-Pacific,China,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,606.9,4277.94,2596.28
+REC-10444,2027,Asia-Pacific,China,Malt Extract,Dry,Macro Brewery,13271.75,3026.12,40161.91
+REC-10488,2027,Asia-Pacific,China,Hops,Dry,Microbrewery / Craft Brewery,15749.13,3517.08,55390.95
+REC-10027,2027,Asia-Pacific,India,Adjuncts / Grains,Dry,Macro Brewery,1618.39,3817.37,6177.99
+REC-10291,2027,Asia-Pacific,India,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,10484.8,2343.53,24571.44
+REC-10468,2027,Asia-Pacific,India,Hops,Liquid,Microbrewery / Craft Brewery,10251.13,1746.97,17908.42
+REC-10320,2027,Asia-Pacific,Japan,Beer Yeast,Dry,Macro Brewery,24485.04,4324.22,105878.7
+REC-10347,2027,Asia-Pacific,Japan,Adjuncts / Grains,Dry,Macro Brewery,8280.88,2632.27,21797.51
+REC-10211,2027,Asia-Pacific,Vietnam,Beer Yeast,Dry,Macro Brewery,1466.76,3054.84,4480.72
+REC-10014,2027,Europe,Belgium,Beer Yeast,Liquid,Macro Brewery,3053.51,1451.59,4432.44
+REC-10016,2027,Europe,Belgium,Beer Additives,Liquid,Macro Brewery,12447.84,3862.99,48085.88
+REC-10067,2027,Europe,Belgium,Beer Additives,Dry,Microbrewery / Craft Brewery,13138.62,1932.85,25394.98
+REC-10138,2027,Europe,Belgium,Malt Extract,Dry,Macro Brewery,22307.38,1700.26,37928.35
+REC-10431,2027,Europe,Belgium,Adjuncts / Grains,Liquid,Macro Brewery,10634.25,2367.5,25176.59
+REC-10319,2027,Europe,Czech Republic,Hops,Liquid,Microbrewery / Craft Brewery,16191.66,4058.12,65707.7
+REC-10421,2027,Europe,Czech Republic,Hops,Liquid,Microbrewery / Craft Brewery,1923.25,4109.58,7903.75
+REC-10058,2027,Europe,France,Beer Additives,Dry,Macro Brewery,24824.01,3064.78,76080.13
+REC-10099,2027,Europe,France,Beer Additives,Dry,Microbrewery / Craft Brewery,3453.68,2869.66,9910.89
+REC-10388,2027,Europe,Germany,Adjuncts / Grains,Dry,Macro Brewery,1680.56,2087.22,3507.7
+REC-10355,2027,Europe,UK,Beer Additives,Dry,Macro Brewery,593.59,1998.67,1186.39
+REC-10369,2027,Latin America,Argentina,Hops,Dry,Microbrewery / Craft Brewery,24119.92,3202.21,77237.05
+REC-10175,2027,Latin America,Brazil,Malt Extract,Dry,Microbrewery / Craft Brewery,20754.33,3381.35,70177.65
+REC-10217,2027,Latin America,Brazil,Beer Additives,Dry,Macro Brewery,18192.51,3623.66,65923.47
+REC-10410,2027,Latin America,Colombia,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,3846.72,4259.47,16384.99
+REC-10157,2027,Latin America,Mexico,Beer Yeast,Liquid,Microbrewery / Craft Brewery,1174.65,4390.59,5157.41
+REC-10218,2027,Latin America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,13567.97,2468.37,33490.77
+REC-10361,2027,Latin America,Mexico,Hops,Liquid,Macro Brewery,7124.64,1245.36,8872.74
+REC-10097,2027,Middle East & Africa,Kenya,Beer Yeast,Liquid,Microbrewery / Craft Brewery,21905.62,4230.19,92664.93
+REC-10263,2027,Middle East & Africa,Kenya,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,18206.32,3786.41,68936.59
+REC-10380,2027,Middle East & Africa,Nigeria,Malt Extract,Liquid,Microbrewery / Craft Brewery,24168.16,3651.51,88250.28
+REC-10393,2027,Middle East & Africa,Nigeria,Beer Yeast,Liquid,Microbrewery / Craft Brewery,11713.64,2621.175,30703.5
+REC-10404,2027,Middle East & Africa,Nigeria,Beer Additives,Liquid,Macro Brewery,13052.91,2664.93,34785.09
+REC-10445,2027,Middle East & Africa,Nigeria,Beer Additives,Dry,Macro Brewery,24412.34,2860.34,69827.59
+REC-10454,2027,Middle East & Africa,Nigeria,Beer Additives,Dry,Microbrewery / Craft Brewery,19441.98,1729.21,33619.27
+REC-10054,2027,Middle East & Africa,South Africa,Malt Extract,Liquid,Microbrewery / Craft Brewery,12931.59,2016.22,26072.93
+REC-10106,2027,Middle East & Africa,South Africa,Hops,Liquid,Microbrewery / Craft Brewery,7728.5,4336.52,33514.79
+REC-10419,2027,Middle East & Africa,South Africa,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,7541.54,1812.63,13670.02
+REC-10140,2027,Middle East & Africa,UAE,Hops,Liquid,Macro Brewery,4284.26,2979.01,12762.85
+REC-10142,2027,Middle East & Africa,UAE,Hops,Liquid,Microbrewery / Craft Brewery,16322.65,2603.25,42491.94
+REC-10286,2027,Middle East & Africa,UAE,Malt Extract,Liquid,Macro Brewery,21225.08,1573.9,33406.15
+REC-10085,2027,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,2239.69,3689.07,8262.37
+REC-10264,2027,North America,Mexico,Beer Additives,Liquid,Macro Brewery,17467.04,2143.0,37431.87
+REC-10300,2027,North America,Mexico,Beer Additives,Dry,Microbrewery / Craft Brewery,13303.13,3192.0,42463.59
+REC-10432,2027,North America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,12575.18,3934.23,49473.65
+REC-10494,2027,North America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,10010.06,2957.26,29602.35
+REC-10333,2027,North America,USA,Malt Extract,Liquid,Macro Brewery,17991.84,2035.24,36617.71
+REC-10481,2027,North America,USA,Malt Extract,Liquid,Macro Brewery,13839.82,4367.55,60446.11
+REC-10271,2028,Asia-Pacific,Australia,Adjuncts / Grains,Liquid,Macro Brewery,23957.48,3317.72,79484.21
+REC-10107,2028,Asia-Pacific,China,Beer Additives,Dry,Microbrewery / Craft Brewery,12407.01,3119.35,38701.81
+REC-10161,2028,Asia-Pacific,China,Beer Yeast,Liquid,Macro Brewery,1455.4,3999.8,5821.31
+REC-10090,2028,Asia-Pacific,Vietnam,Adjuncts / Grains,Dry,Macro Brewery,17127.41,3798.91,65065.49
+REC-10091,2028,Asia-Pacific,Vietnam,Malt Extract,Dry,Microbrewery / Craft Brewery,9367.04,2028.3,18999.17
+REC-10486,2028,Asia-Pacific,Vietnam,Malt Extract,Dry,Macro Brewery,5297.91,2984.99,15814.21
+REC-10120,2028,Europe,Belgium,Beer Additives,Liquid,Macro Brewery,8004.68,2841.88,22748.34
+REC-10330,2028,Europe,Belgium,Beer Additives,Liquid,Macro Brewery,2258.51,2546.9,5752.2
+REC-10061,2028,Europe,Czech Republic,Malt Extract,Liquid,Microbrewery / Craft Brewery,10167.11,1239.94,12606.61
+REC-10166,2028,Europe,Czech Republic,Hops,Liquid,Macro Brewery,19027.23,3895.37,74118.1
+REC-10191,2028,Europe,Czech Republic,Beer Yeast,Dry,Macro Brewery,5268.28,2879.34,15169.17
+REC-10351,2028,Europe,Czech Republic,Beer Yeast,Liquid,Microbrewery / Craft Brewery,7266.15,1229.88,8936.49
+REC-10390,2028,Europe,Czech Republic,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,23941.6,4154.64,99468.73
+REC-10121,2028,Europe,France,Malt Extract,Liquid,Macro Brewery,19830.14,1875.44,37190.24
+REC-10471,2028,Europe,France,Hops,Dry,Microbrewery / Craft Brewery,6091.77,2369.1,14432.01
+REC-10184,2028,Europe,Germany,Malt Extract,Dry,Macro Brewery,11293.380000000001,2075.58,23440.31
+REC-10349,2028,Europe,Germany,Hops,Liquid,Microbrewery / Craft Brewery,13022.66,2633.53,34295.57
+REC-10459,2028,Europe,Germany,Beer Additives,Dry,Microbrewery / Craft Brewery,7845.11,1587.92,12457.41
+REC-10315,2028,Europe,UK,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,22699.72,3213.02,72934.65
+REC-10465,2028,Europe,UK,Beer Yeast,Liquid,Macro Brewery,10106.095,1732.5,17508.81
+REC-10029,2028,Latin America,Argentina,Beer Additives,Liquid,Microbrewery / Craft Brewery,7281.95,1998.52,14553.12
+REC-10041,2028,Latin America,Argentina,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,1399.67,3253.73,4554.15
+REC-10078,2028,Latin America,Argentina,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,11890.380000000001,2512.86,29878.86
+REC-10357,2028,Latin America,Argentina,Adjuncts / Grains,Liquid,Macro Brewery,18652.15,1501.59,28007.88
+REC-10377,2028,Latin America,Argentina,Beer Additives,Liquid,Microbrewery / Craft Brewery,4590.35,2996.04,13752.87
+REC-10399,2028,Latin America,Argentina,Hops,Liquid,Microbrewery / Craft Brewery,10704.36,3342.76,35782.11
+REC-10414,2028,Latin America,Argentina,Adjuncts / Grains,Dry,Macro Brewery,16298.4,3362.07,54796.36
+REC-10062,2028,Latin America,Brazil,Beer Additives,Liquid,Macro Brewery,10834.79,1229.83,13324.95
+REC-10128,2028,Latin America,Brazil,Hops,Dry,Macro Brewery,8312.24,1427.73,11867.63
+REC-10145,2028,Latin America,Brazil,Beer Yeast,Liquid,Microbrewery / Craft Brewery,2256.94,3726.3,8410.04
+REC-10405,2028,Latin America,Brazil,Malt Extract,Liquid,Macro Brewery,22063.84,1272.31,28072.04
+REC-10080,2028,Latin America,Colombia,Hops,Dry,Microbrewery / Craft Brewery,11677.79,4477.74,52290.11
+REC-10290,2028,Latin America,Colombia,Malt Extract,Dry,Macro Brewery,2402.41,2595.0,6234.25
+REC-10053,2028,Latin America,Mexico,Hops,Liquid,Macro Brewery,8957.97,3570.49,31984.34
+REC-10150,2028,Latin America,Mexico,Hops,Liquid,Macro Brewery,9432.55,4411.16,41608.49
+REC-10186,2028,Latin America,Mexico,Hops,Liquid,Microbrewery / Craft Brewery,19166.59,2178.65,41757.29
+REC-10270,2028,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,5662.27,4316.68,24442.21
+REC-10294,2028,Latin America,Mexico,Adjuncts / Grains,Liquid,Macro Brewery,9046.1,1877.6,16984.96
+REC-10306,2028,Latin America,Mexico,Hops,Dry,Macro Brewery,1730.54,3176.85,5497.67
+REC-10433,2028,Latin America,Mexico,Beer Yeast,Liquid,Macro Brewery,10405.1,3605.24,37512.88
+REC-10455,2028,Latin America,Mexico,Beer Additives,Liquid,Macro Brewery,13190.03,3423.03,45149.87
+REC-10493,2028,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,16080.89,3283.68,52804.5
+REC-10428,2028,Middle East & Africa,Kenya,Malt Extract,Liquid,Microbrewery / Craft Brewery,8764.97,2899.52,25414.21
+REC-10084,2028,Middle East & Africa,Nigeria,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,18903.86,2495.11,47167.21
+REC-10277,2028,Middle East & Africa,Nigeria,Beer Additives,Dry,Microbrewery / Craft Brewery,850.72,1534.53,1305.46
+REC-10005,2028,Middle East & Africa,South Africa,Beer Yeast,Dry,Macro Brewery,15247.12,1225.88,18691.14
+REC-10063,2028,Middle East & Africa,South Africa,Beer Yeast,Dry,Microbrewery / Craft Brewery,10570.02,2378.2,25137.62
+REC-10113,2028,Middle East & Africa,South Africa,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,18364.75,2365.07,43433.92
+REC-10472,2028,Middle East & Africa,South Africa,Adjuncts / Grains,Dry,Macro Brewery,6541.79,1547.64,10124.34
+REC-10268,2028,North America,Canada,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,20208.71,1386.73,28024.02
+REC-10042,2028,North America,Mexico,Beer Yeast,Dry,Microbrewery / Craft Brewery,3146.63,4437.89,13964.4
+REC-10226,2028,North America,Mexico,Malt Extract,Dry,Microbrewery / Craft Brewery,23629.03,3526.07,83317.61
+REC-10341,2028,North America,Mexico,Hops,Liquid,Macro Brewery,10343.58,1536.25,15890.32
+REC-10449,2028,North America,Mexico,Beer Yeast,Dry,Macro Brewery,20275.31,3965.1,80393.63
+REC-10105,2028,North America,USA,Malt Extract,Dry,Microbrewery / Craft Brewery,13171.015,3237.41,42639.98
+REC-10153,2028,North America,USA,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,11623.04,2203.01,25605.67
+REC-10169,2028,North America,USA,Beer Additives,Dry,Macro Brewery,22552.04,4176.4,94186.34
+REC-10198,2028,North America,USA,Hops,Dry,Microbrewery / Craft Brewery,14721.46,4239.28,62408.39
+REC-10415,2028,North America,USA,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,10180.71,2058.78,20959.84
+REC-10190,2029,Asia-Pacific,Australia,Adjuncts / Grains,Liquid,Macro Brewery,6853.7,2895.72,19846.4
+REC-10208,2029,Asia-Pacific,India,Hops,Dry,Microbrewery / Craft Brewery,15706.18,4026.57,63242.03
+REC-10275,2029,Asia-Pacific,India,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,20797.5,2580.5,53667.95
+REC-10458,2029,Asia-Pacific,India,Hops,Liquid,Microbrewery / Craft Brewery,14735.335,1957.67,28846.92
+REC-10026,2029,Asia-Pacific,Vietnam,Malt Extract,Liquid,Macro Brewery,12076.09,4437.94,53592.96
+REC-10206,2029,Asia-Pacific,Vietnam,Beer Yeast,Liquid,Microbrewery / Craft Brewery,15773.45,2307.51,36397.39
+REC-10104,2029,Europe,Belgium,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,786.81,4060.34,3194.72
+REC-10149,2029,Europe,Belgium,Beer Additives,Dry,Macro Brewery,15341.59,1380.29,21175.84
+REC-10387,2029,Europe,Belgium,Hops,Liquid,Macro Brewery,16281.66,2976.5,48462.36
+REC-10214,2029,Europe,Czech Republic,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,6079.87,2455.71,14930.4
+REC-10345,2029,Europe,Czech Republic,Beer Yeast,Dry,Microbrewery / Craft Brewery,1831.13,3669.67,6719.64
+REC-10371,2029,Europe,Czech Republic,Malt Extract,Liquid,Microbrewery / Craft Brewery,17331.97,1467.79,25439.69
+REC-10412,2029,Europe,France,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,18595.64,3722.65,69225.06
+REC-10467,2029,Europe,France,Beer Additives,Liquid,Microbrewery / Craft Brewery,11720.9,1263.13,14805.02
+REC-10490,2029,Europe,France,Hops,Liquid,Microbrewery / Craft Brewery,14668.31,2850.37,41810.11
+REC-10329,2029,Europe,Germany,Adjuncts / Grains,Liquid,Macro Brewery,15807.2,3444.37,54445.85
+REC-10201,2029,Europe,UK,Malt Extract,Liquid,Microbrewery / Craft Brewery,15842.74,4043.58,64061.39
+REC-10483,2029,Europe,UK,Hops,Liquid,Macro Brewery,2352.32,3037.7,7145.64
+REC-10069,2029,Latin America,Argentina,Beer Yeast,Dry,Microbrewery / Craft Brewery,23898.98,3998.54,95561.03
+REC-10126,2029,Latin America,Argentina,Adjuncts / Grains,Dry,Macro Brewery,22957.56,1883.35,43237.12
+REC-10137,2029,Latin America,Argentina,Hops,Liquid,Microbrewery / Craft Brewery,3993.56,3360.35,13419.76
+REC-10299,2029,Latin America,Argentina,Hops,Liquid,Microbrewery / Craft Brewery,23900.32,4396.17,105069.87
+REC-10308,2029,Latin America,Argentina,Beer Yeast,Liquid,Microbrewery / Craft Brewery,10370.4,3340.07,34637.86
+REC-10354,2029,Latin America,Argentina,Malt Extract,Liquid,Microbrewery / Craft Brewery,21063.79,3304.37,69602.56
+REC-10365,2029,Latin America,Argentina,Malt Extract,Dry,Microbrewery / Craft Brewery,22350.87,2016.95,45080.59
+REC-10011,2029,Latin America,Brazil,Hops,Dry,Microbrewery / Craft Brewery,17714.53,1998.25,35398.06
+REC-10210,2029,Latin America,Brazil,Beer Yeast,Dry,Macro Brewery,10180.87,3599.29,36643.9
+REC-10338,2029,Latin America,Brazil,Adjuncts / Grains,Liquid,Macro Brewery,4000.46,1822.18,7289.56
+REC-10143,2029,Latin America,Colombia,Hops,Liquid,Microbrewery / Craft Brewery,16104.11,1323.98,21321.52
+REC-10144,2029,Latin America,Colombia,Malt Extract,Liquid,Microbrewery / Craft Brewery,8844.8,1621.96,14345.91
+REC-10020,2029,Latin America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,18718.05,1344.87,25173.34
+REC-10051,2029,Latin America,Mexico,Beer Additives,Liquid,Microbrewery / Craft Brewery,15618.13,1733.52,27074.34
+REC-10059,2029,Latin America,Mexico,Hops,Dry,Macro Brewery,3721.48,3746.37,13942.04
+REC-10147,2029,Latin America,Mexico,Malt Extract,Dry,Microbrewery / Craft Brewery,8124.83,2574.67,20918.76
+REC-10170,2029,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,3345.4,3862.09,12920.24
+REC-10249,2029,Latin America,Mexico,Adjuncts / Grains,Liquid,Macro Brewery,3176.97,3948.34,12543.76
+REC-10267,2029,Latin America,Mexico,Beer Additives,Liquid,Macro Brewery,9288.53,2297.11,21336.78
+REC-10004,2029,Middle East & Africa,Nigeria,Adjuncts / Grains,Dry,Macro Brewery,19460.05,1686.1,32811.59
+REC-10036,2029,Middle East & Africa,Nigeria,Beer Additives,Dry,Macro Brewery,5571.32,2664.93,14847.18
+REC-10075,2029,Middle East & Africa,Nigeria,Hops,Dry,Microbrewery / Craft Brewery,1958.36,3386.03,6631.07
+REC-10339,2029,Middle East & Africa,Nigeria,Malt Extract,Liquid,Microbrewery / Craft Brewery,19495.98,3419.12,66659.1
+REC-10409,2029,Middle East & Africa,Nigeria,Beer Additives,Liquid,Microbrewery / Craft Brewery,7734.89,2820.62,21817.19
+REC-10328,2029,Middle East & Africa,South Africa,Adjuncts / Grains,Dry,Macro Brewery,14853.69,3513.76,52192.3
+REC-10413,2029,Middle East & Africa,UAE,Hops,Dry,Microbrewery / Craft Brewery,8232.87,2551.91,21009.54
+REC-10429,2029,Middle East & Africa,UAE,Beer Yeast,Dry,Microbrewery / Craft Brewery,973.53,2967.33,2888.78
+REC-10484,2029,Middle East & Africa,UAE,Beer Yeast,Liquid,Microbrewery / Craft Brewery,9459.18,2572.06,24329.58
+REC-10087,2029,North America,Mexico,Beer Yeast,Liquid,Microbrewery / Craft Brewery,9191.9,4338.06,39875.01
+REC-10220,2029,North America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,3700.98,3968.69,14688.04
+REC-10375,2029,North America,Mexico,Malt Extract,Dry,Microbrewery / Craft Brewery,17744.5,3915.85,69484.8
+REC-10071,2029,North America,USA,Beer Additives,Dry,Macro Brewery,538.35,1514.82,815.5
+REC-10225,2029,North America,USA,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,21988.72,1975.41,43436.74
+REC-10248,2029,North America,USA,Malt Extract,Liquid,Microbrewery / Craft Brewery,5411.63,3086.76,16704.4
+REC-10307,2029,North America,USA,Hops,Dry,Microbrewery / Craft Brewery,2286.09,3258.04,7448.17
+REC-10485,2029,North America,USA,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,6021.84,2615.52,15750.24
+REC-10487,2029,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,3949.67,3498.22,13816.81
+REC-10244,2030,Asia-Pacific,Australia,Beer Yeast,Liquid,Macro Brewery,20774.21,3419.92,71046.14
+REC-10368,2030,Asia-Pacific,Australia,Beer Yeast,Dry,Microbrewery / Craft Brewery,9744.29,3618.02,35255.04
+REC-10276,2030,Asia-Pacific,China,Beer Yeast,Dry,Microbrewery / Craft Brewery,7718.18,3678.1,28388.24
+REC-10331,2030,Asia-Pacific,Japan,Malt Extract,Liquid,Macro Brewery,17224.12,1250.8,21543.93
+REC-10182,2030,Asia-Pacific,Vietnam,Hops,Dry,Microbrewery / Craft Brewery,13764.49,4342.33,59769.96
+REC-10423,2030,Europe,Belgium,Beer Additives,Liquid,Microbrewery / Craft Brewery,13138.62,3460.94,45471.98
+REC-10173,2030,Europe,Czech Republic,Hops,Dry,Microbrewery / Craft Brewery,22265.89,2497.54,55609.95
+REC-10323,2030,Europe,Czech Republic,Hops,Dry,Microbrewery / Craft Brewery,13022.66,4317.63,56227.03
+REC-10316,2030,Europe,France,Beer Yeast,Dry,Macro Brewery,8376.64,2232.59,18701.6
+REC-10047,2030,Europe,UK,Beer Yeast,Liquid,Macro Brewery,7690.48,4368.45,33595.48
+REC-10261,2030,Europe,UK,Beer Additives,Dry,Microbrewery / Craft Brewery,12182.66,2534.94,30882.31
+REC-10332,2030,Europe,UK,Malt Extract,Liquid,Macro Brewery,6427.33,3123.66,20076.79
+REC-10070,2030,Latin America,Argentina,Beer Yeast,Liquid,Macro Brewery,20619.36,3605.24,74337.74
+REC-10122,2030,Latin America,Argentina,Adjuncts / Grains,Dry,Macro Brewery,11437.28,3150.73,36035.78
+REC-10439,2030,Latin America,Argentina,Adjuncts / Grains,Dry,Macro Brewery,13216.29,2868.59,37912.12
+REC-10015,2030,Latin America,Brazil,Hops,Liquid,Microbrewery / Craft Brewery,9920.53,2106.52,20897.79
+REC-10066,2030,Latin America,Brazil,Beer Additives,Liquid,Microbrewery / Craft Brewery,15393.68,3293.4,50697.55
+REC-10103,2030,Latin America,Brazil,Beer Yeast,Liquid,Microbrewery / Craft Brewery,3982.36,1778.23,7081.55
+REC-10342,2030,Latin America,Brazil,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,7464.72,1227.46,9162.65
+REC-10408,2030,Latin America,Colombia,Malt Extract,Liquid,Microbrewery / Craft Brewery,15389.93,1385.38,21320.9
+REC-10001,2030,Latin America,Mexico,Beer Additives,Liquid,Macro Brewery,11045.47,4137.47,45700.3
+REC-10043,2030,Latin America,Mexico,Beer Additives,Dry,Microbrewery / Craft Brewery,8802.09,1827.36,16084.59
+REC-10133,2030,Latin America,Mexico,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,17365.92,3958.23,68738.31
+REC-10195,2030,Latin America,Mexico,Beer Additives,Dry,Microbrewery / Craft Brewery,24177.23,3500.79,84639.41
+REC-10230,2030,Latin America,Mexico,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,12343.48,1370.51,16916.86
+REC-10239,2030,Middle East & Africa,Kenya,Beer Additives,Dry,Macro Brewery,12561.97,4055.48,50944.82
+REC-10258,2030,Middle East & Africa,Kenya,Beer Yeast,Liquid,Microbrewery / Craft Brewery,10570.02,3250.27,34355.42
+REC-10457,2030,Middle East & Africa,Kenya,Beer Yeast,Dry,Macro Brewery,9607.61,3490.03,33530.85
+REC-10134,2030,Middle East & Africa,Nigeria,Adjuncts / Grains,Liquid,Macro Brewery,9676.55,2296.23,22219.58
+REC-10179,2030,Middle East & Africa,Nigeria,Beer Yeast,Dry,Macro Brewery,10042.31,1752.16,17595.73
+REC-10358,2030,Middle East & Africa,Nigeria,Malt Extract,Liquid,Macro Brewery,8248.62,1857.59,15322.55
+REC-10385,2030,Middle East & Africa,Nigeria,Adjuncts / Grains,Liquid,Macro Brewery,3081.44,4238.53,13060.78
+REC-10397,2030,Middle East & Africa,Nigeria,Hops,Liquid,Microbrewery / Craft Brewery,1782.7,2611.08,4654.77
+REC-10072,2030,Middle East & Africa,South Africa,Adjuncts / Grains,Dry,Macro Brewery,16091.83,2614.72,42075.63
+REC-10116,2030,Middle East & Africa,South Africa,Malt Extract,Liquid,Microbrewery / Craft Brewery,17466.07,4145.44,72404.55
+REC-10360,2030,Middle East & Africa,South Africa,Beer Yeast,Dry,Microbrewery / Craft Brewery,9325.73,3637.79,33925.05
+REC-10476,2030,Middle East & Africa,South Africa,Malt Extract,Liquid,Macro Brewery,1917.19,2009.66,3852.9
+REC-10010,2030,Middle East & Africa,UAE,Beer Additives,Dry,Macro Brewery,14996.58,2947.88,44208.12
+REC-10151,2030,North America,Canada,Adjuncts / Grains,Liquid,Macro Brewery,5838.37,1946.21,11362.69
+REC-10243,2030,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,10485.81,4075.67,42736.7
+REC-10441,2030,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,8140.66,4091.85,33310.36
+REC-10077,2030,North America,Mexico,Beer Yeast,Liquid,Macro Brewery,17321.45,2153.32,37298.62
+REC-10272,2030,North America,Mexico,Malt Extract,Dry,Macro Brewery,717.15,3237.41,2321.71
+REC-10427,2030,North America,Mexico,Beer Yeast,Dry,Microbrewery / Craft Brewery,9787.8,2024.86,19818.92
+REC-10056,2030,North America,USA,Adjuncts / Grains,Liquid,Macro Brewery,12591.89,3399.78,42809.66
+REC-10100,2030,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,22610.11,1928.81,43610.61
+REC-10119,2030,North America,USA,Malt Extract,Liquid,Macro Brewery,7246.84,2771.91,20087.59
+REC-10162,2030,North America,USA,Beer Additives,Liquid,Macro Brewery,1258.42,2594.68,3265.2
+REC-10164,2030,North America,USA,Malt Extract,Dry,Microbrewery / Craft Brewery,4420.61,2273.47,10050.12
+REC-10251,2030,North America,USA,Malt Extract,Dry,Microbrewery / Craft Brewery,11259.17,1240.12,13962.72
+REC-10292,2030,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,10474.11,2512.12,26312.22
+REC-10008,2031,Asia-Pacific,China,Malt Extract,Dry,Microbrewery / Craft Brewery,15373.69,1643.11,25260.66
+REC-10155,2031,Asia-Pacific,India,Malt Extract,Dry,Microbrewery / Craft Brewery,3943.55,2924.28,11532.04
+REC-10229,2031,Asia-Pacific,India,Hops,Dry,Macro Brewery,24534.19,4391.22,107735.03
+REC-10037,2031,Asia-Pacific,Japan,Hops,Liquid,Macro Brewery,13156.03,2056.49,27055.24
+REC-10055,2031,Asia-Pacific,Japan,Beer Yeast,Liquid,Microbrewery / Craft Brewery,21918.45,3314.03,72638.4
+REC-10110,2031,Asia-Pacific,Japan,Malt Extract,Dry,Macro Brewery,3513.58,2905.1,10207.3
+REC-10074,2031,Europe,Belgium,Hops,Dry,Macro Brewery,6811.38,2786.94,18982.91
+REC-10318,2031,Europe,Czech Republic,Hops,Dry,Microbrewery / Craft Brewery,6037.71,2937.8900000000003,17738.13
+REC-10417,2031,Europe,Czech Republic,Beer Additives,Liquid,Microbrewery / Craft Brewery,5380.77,1729.53,9306.2
+REC-10450,2031,Europe,Czech Republic,Beer Yeast,Dry,Macro Brewery,3445.08,4033.92,13897.18
+REC-10424,2031,Europe,France,Malt Extract,Dry,Macro Brewery,7056.02,1564.43,11038.65
+REC-10194,2031,Europe,Germany,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,14355.36,3930.77,56427.62
+REC-10231,2031,Europe,Germany,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,21656.91,2865.83,62065.02
+REC-10176,2031,Europe,UK,Hops,Dry,Microbrewery / Craft Brewery,24608.32,1458.9,35901.08
+REC-10089,2031,Latin America,Argentina,Beer Additives,Dry,Microbrewery / Craft Brewery,16880.03,2745.33,46341.25
+REC-10174,2031,Latin America,Argentina,Adjuncts / Grains,Dry,Macro Brewery,15272.1,3149.1,48093.37
+REC-10344,2031,Latin America,Argentina,Beer Yeast,Dry,Microbrewery / Craft Brewery,15924.16,1505.66,23976.37
+REC-10200,2031,Latin America,Brazil,Beer Additives,Dry,Microbrewery / Craft Brewery,11379.07,3605.64,41028.83
+REC-10295,2031,Latin America,Brazil,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,3219.45,2794.03,8995.24
+REC-10452,2031,Latin America,Brazil,Adjuncts / Grains,Dry,Macro Brewery,930.03,2649.39,2464.01
+REC-10238,2031,Latin America,Colombia,Adjuncts / Grains,Dry,Macro Brewery,13026.25,1634.66,21293.49
+REC-10017,2031,Latin America,Mexico,Beer Additives,Dry,Macro Brewery,16479.49,2716.89,44772.96
+REC-10108,2031,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,14641.4,2640.83,38665.45
+REC-10212,2031,Latin America,Mexico,Beer Additives,Liquid,Macro Brewery,12150.88,4325.4,52557.42
+REC-10335,2031,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,20196.98,4360.02,88059.24
+REC-10384,2031,Latin America,Mexico,Beer Additives,Liquid,Microbrewery / Craft Brewery,7802.28,2424.67,18917.95
+REC-10018,2031,Middle East & Africa,Kenya,Beer Additives,Dry,Microbrewery / Craft Brewery,23788.01,3003.7,71452.05
+REC-10083,2031,Middle East & Africa,Kenya,Hops,Dry,Microbrewery / Craft Brewery,10764.22,2426.69,26121.43
+REC-10310,2031,Middle East & Africa,Kenya,Hops,Dry,Microbrewery / Craft Brewery,6193.42,1249.87,7740.97
+REC-10396,2031,Middle East & Africa,South Africa,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,9560.42,3528.02,33729.35
+REC-10123,2031,Middle East & Africa,UAE,Beer Yeast,Dry,Microbrewery / Craft Brewery,20060.32,1814.25,36394.44
+REC-10402,2031,Middle East & Africa,UAE,Malt Extract,Dry,Microbrewery / Craft Brewery,5693.85,3921.65,22329.29
+REC-10479,2031,Middle East & Africa,UAE,Beer Additives,Liquid,Microbrewery / Craft Brewery,13052.91,1972.87,25751.69
+REC-10266,2031,North America,Canada,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,7835.19,3461.96,27125.11
+REC-10293,2031,North America,Canada,Beer Yeast,Liquid,Macro Brewery,2117.24,2072.11,4387.15
+REC-10326,2031,North America,Canada,Adjuncts / Grains,Liquid,Macro Brewery,12825.56,1868.69,23967.0
+REC-10440,2031,North America,Canada,Beer Yeast,Dry,Macro Brewery,17099.79,4305.7,73626.57
+REC-10500,2031,North America,Canada,Beer Yeast,Dry,Microbrewery / Craft Brewery,12014.71,3483.84,41857.33
+REC-10082,2031,North America,Mexico,Beer Yeast,Liquid,Microbrewery / Craft Brewery,3465.11,3711.33,12860.17
+REC-10257,2031,North America,Mexico,Hops,Liquid,Macro Brewery,13005.6,2364.76,30755.12
+REC-10337,2031,North America,Mexico,Hops,Liquid,Microbrewery / Craft Brewery,13244.16,3208.395,42492.5
+REC-10403,2031,North America,Mexico,Beer Yeast,Dry,Microbrewery / Craft Brewery,16605.16,2164.86,35947.85
+REC-10154,2031,North America,USA,Beer Additives,Liquid,Macro Brewery,17362.72,1960.37,34037.36
+REC-10197,2032,Asia-Pacific,Australia,Malt Extract,Dry,Macro Brewery,9008.29,2723.66,24535.52
+REC-10327,2032,Asia-Pacific,China,Malt Extract,Liquid,Microbrewery / Craft Brewery,11509.07,3139.03,36127.32
+REC-10401,2032,Asia-Pacific,China,Beer Yeast,Dry,Macro Brewery,21333.53,1411.22,30106.3
+REC-10497,2032,Asia-Pacific,China,Beer Additives,Liquid,Microbrewery / Craft Brewery,8957.21,1586.77,14213.03
+REC-10009,2032,Asia-Pacific,India,Beer Yeast,Liquid,Microbrewery / Craft Brewery,15967.04,4361.18,69635.14
+REC-10093,2032,Asia-Pacific,India,Beer Yeast,Liquid,Microbrewery / Craft Brewery,15640.75,2383.31,37276.76
+REC-10279,2032,Asia-Pacific,India,Beer Additives,Liquid,Microbrewery / Craft Brewery,20936.54,2111.85,44214.83
+REC-10460,2032,Asia-Pacific,India,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,16338.24,1745.44,28517.42
+REC-10177,2032,Asia-Pacific,Japan,Adjuncts / Grains,Liquid,Macro Brewery,15226.32,2996.84,45630.84
+REC-10215,2032,Asia-Pacific,Vietnam,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,24118.71,1738.02,41918.8
+REC-10312,2032,Asia-Pacific,Vietnam,Adjuncts / Grains,Dry,Macro Brewery,20185.33,2027.95,40934.84
+REC-10456,2032,Europe,Belgium,Hops,Dry,Macro Brewery,9028.34,1791.54,16174.63
+REC-10021,2032,Europe,Czech Republic,Adjuncts / Grains,Dry,Macro Brewery,12903.52,1746.97,22542.06
+REC-10065,2032,Europe,Czech Republic,Beer Yeast,Liquid,Microbrewery / Craft Brewery,10106.095,1954.63,19753.68
+REC-10259,2032,Europe,Czech Republic,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,23196.37,2302.36,53406.39
+REC-10260,2032,Europe,Czech Republic,Adjuncts / Grains,Dry,Macro Brewery,968.34,3617.91,3503.37
+REC-10426,2032,Europe,France,Beer Additives,Dry,Macro Brewery,859.99,2222.36,1911.21
+REC-10437,2032,Europe,France,Hops,Liquid,Microbrewery / Craft Brewery,11870.33,2278.25,27043.58
+REC-10185,2032,Europe,Germany,Beer Additives,Liquid,Microbrewery / Craft Brewery,13771.77,3185.13,43864.88
+REC-10464,2032,Europe,Germany,Hops,Liquid,Microbrewery / Craft Brewery,22514.73,2899.28,65276.51
+REC-10322,2032,Europe,UK,Malt Extract,Dry,Microbrewery / Craft Brewery,9266.45,1710.93,15854.25
+REC-10473,2032,Europe,UK,Malt Extract,Liquid,Macro Brewery,12359.89,1933.79,23901.43
+REC-10167,2032,Latin America,Brazil,Hops,Liquid,Microbrewery / Craft Brewery,11733.81,1799.33,21113.0
+REC-10287,2032,Latin America,Brazil,Beer Additives,Dry,Macro Brewery,11764.974999999999,2531.88,29787.5
+REC-10430,2032,Latin America,Brazil,Malt Extract,Liquid,Macro Brewery,3547.03,2377.72,8433.84
+REC-10030,2032,Latin America,Colombia,Malt Extract,Dry,Macro Brewery,24302.55,4370.07,106203.84
+REC-10101,2032,Latin America,Colombia,Adjuncts / Grains,Liquid,Macro Brewery,11890.380000000001,1328.47,15796.01
+REC-10234,2032,Latin America,Colombia,Beer Yeast,Liquid,Macro Brewery,7501.7,1791.54,13439.6
+REC-10436,2032,Latin America,Colombia,Malt Extract,Dry,Microbrewery / Craft Brewery,743.13,4344.29,3228.37
+REC-10057,2032,Latin America,Mexico,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,11890.380000000001,1736.91,20652.52
+REC-10274,2032,Latin America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,17082.12,1856.67,31715.86
+REC-10372,2032,Latin America,Mexico,Beer Additives,Dry,Microbrewery / Craft Brewery,12598.44,4339.92,54676.22
+REC-10013,2032,Middle East & Africa,Kenya,Beer Additives,Dry,Microbrewery / Craft Brewery,13052.91,3442.75,44937.91
+REC-10301,2032,Middle East & Africa,Kenya,Beer Yeast,Liquid,Microbrewery / Craft Brewery,7839.36,1454.03,11398.66
+REC-10304,2032,Middle East & Africa,Kenya,Beer Additives,Liquid,Macro Brewery,19965.63,2181.06,43546.24
+REC-10366,2032,Middle East & Africa,Kenya,Adjuncts / Grains,Liquid,Macro Brewery,11128.53,1406.34,15650.5
+REC-10199,2032,Middle East & Africa,South Africa,Hops,Dry,Macro Brewery,3910.32,3492.16,13655.46
+REC-10395,2032,Middle East & Africa,South Africa,Beer Additives,Liquid,Microbrewery / Craft Brewery,9533.33,2019.67,19254.18
+REC-10073,2032,Middle East & Africa,UAE,Hops,Dry,Microbrewery / Craft Brewery,1752.82,1296.26,2272.11
+REC-10309,2032,Middle East & Africa,UAE,Malt Extract,Liquid,Microbrewery / Craft Brewery,7734.62,2082.43,16106.8
+REC-10092,2032,North America,Canada,Malt Extract,Liquid,Microbrewery / Craft Brewery,13171.015,3061.44,40322.27
+REC-10171,2032,North America,Canada,Beer Additives,Dry,Macro Brewery,23920.01,4450.03,106444.76
+REC-10285,2032,North America,Canada,Beer Additives,Dry,Microbrewery / Craft Brewery,19269.84,4403.23,84849.54
+REC-10478,2032,North America,Canada,Hops,Liquid,Microbrewery / Craft Brewery,23596.75,2490.41,58765.58
+REC-10499,2032,North America,Canada,Malt Extract,Dry,Microbrewery / Craft Brewery,7617.36,1671.38,12731.5
+REC-10086,2032,North America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,2464.41,4230.81,10426.45
+REC-10204,2032,North America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,10343.58,3208.395,33186.29
+REC-10273,2032,North America,Mexico,Beer Additives,Dry,Macro Brewery,24946.61,3286.53,81987.78
+REC-10394,2032,North America,Mexico,Beer Yeast,Liquid,Macro Brewery,5617.63,3279.82,18424.82
+REC-10024,2032,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,6732.59,1364.93,9189.51
+REC-10159,2032,North America,USA,Malt Extract,Dry,Macro Brewery,24118.43,3388.06,81714.69
+REC-10303,2032,North America,USA,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,12765.29,4339.7,55397.53
+REC-10168,2033,Asia-Pacific,Australia,Hops,Dry,Microbrewery / Craft Brewery,7586.5,2424.11,18390.51
+REC-10305,2033,Asia-Pacific,Australia,Beer Additives,Liquid,Microbrewery / Craft Brewery,17823.62,1503.82,26803.52
+REC-10124,2033,Asia-Pacific,China,Malt Extract,Liquid,Macro Brewery,20649.35,2294.16,47372.91
+REC-10160,2033,Asia-Pacific,China,Beer Yeast,Liquid,Microbrewery / Craft Brewery,9913.06,3648.26,36165.42
+REC-10278,2033,Asia-Pacific,China,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,18577.8,2116.91,39327.53
+REC-10165,2033,Asia-Pacific,India,Beer Additives,Dry,Microbrewery / Craft Brewery,1072.13,3551.65,3807.83
+REC-10356,2033,Asia-Pacific,India,Malt Extract,Liquid,Macro Brewery,11509.07,3556.37,40930.51
+REC-10398,2033,Asia-Pacific,India,Beer Additives,Liquid,Macro Brewery,19305.41,2660.4,51360.11
+REC-10451,2033,Asia-Pacific,India,Hops,Dry,Microbrewery / Craft Brewery,14735.335,3669.57,54072.34
+REC-10475,2033,Asia-Pacific,Japan,Malt Extract,Liquid,Macro Brewery,12108.34,3205.58,38814.25
+REC-10379,2033,Europe,Belgium,Beer Additives,Liquid,Macro Brewery,16826.44,3235.39,54440.1
+REC-10462,2033,Europe,Belgium,Beer Yeast,Dry,Macro Brewery,21252.99,3571.84,75912.28
+REC-10040,2033,Europe,Czech Republic,Hops,Liquid,Microbrewery / Craft Brewery,5867.19,1441.17,8455.62
+REC-10228,2033,Europe,Czech Republic,Beer Yeast,Dry,Macro Brewery,11835.55,3003.22,35544.76
+REC-10466,2033,Europe,Czech Republic,Beer Additives,Liquid,Microbrewery / Craft Brewery,19619.22,1475.73,28952.67
+REC-10049,2033,Europe,Germany,Malt Extract,Dry,Macro Brewery,10226.87,4425.12,45255.13
+REC-10221,2033,Europe,Germany,Beer Yeast,Dry,Macro Brewery,19867.49,1237.68,24589.6
+REC-10346,2033,Europe,Germany,Hops,Liquid,Macro Brewery,18841.81,4218.01,79474.94
+REC-10418,2033,Europe,Germany,Beer Additives,Dry,Microbrewery / Craft Brewery,22310.27,1432.62,31962.14
+REC-10411,2033,Europe,UK,Beer Yeast,Dry,Macro Brewery,16465.17,1547.8,25484.79
+REC-10052,2033,Latin America,Argentina,Beer Additives,Dry,Macro Brewery,3289.04,2773.77,9123.04
+REC-10470,2033,Latin America,Argentina,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,2109.52,1997.07,4212.86
+REC-10477,2033,Latin America,Argentina,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,23965.85,1390.52,33324.99
+REC-10079,2033,Latin America,Brazil,Hops,Dry,Microbrewery / Craft Brewery,9904.05,4234.45,41938.2
+REC-10205,2033,Latin America,Brazil,Malt Extract,Liquid,Microbrewery / Craft Brewery,22067.71,2339.63,51630.28
+REC-10284,2033,Latin America,Brazil,Beer Yeast,Liquid,Microbrewery / Craft Brewery,16634.24,1791.9,29806.89
+REC-10435,2033,Latin America,Colombia,Malt Extract,Liquid,Macro Brewery,15080.73,4215.5,63572.82
+REC-10252,2033,Latin America,Mexico,Malt Extract,Dry,Microbrewery / Craft Brewery,21250.74,3424.27,72768.27
+REC-10362,2033,Latin America,Mexico,Beer Additives,Liquid,Microbrewery / Craft Brewery,21146.44,2019.64,42708.2
+REC-10350,2033,Middle East & Africa,Kenya,Beer Additives,Liquid,Macro Brewery,1647.87,3587.38,5911.54
+REC-10296,2033,Middle East & Africa,Nigeria,Beer Yeast,Liquid,Microbrewery / Craft Brewery,20301.76,2621.175,53214.47
+REC-10334,2033,Middle East & Africa,Nigeria,Malt Extract,Dry,Microbrewery / Craft Brewery,20652.1,2685.84,55468.24
+REC-10453,2033,Middle East & Africa,Nigeria,Beer Additives,Liquid,Microbrewery / Craft Brewery,7686.06,3214.8,24709.15
+REC-10127,2033,Middle East & Africa,South Africa,Malt Extract,Liquid,Macro Brewery,11059.14,1434.82,15867.88
+REC-10442,2033,Middle East & Africa,South Africa,Beer Additives,Liquid,Microbrewery / Craft Brewery,19462.79,1538.47,29942.92
+REC-10163,2033,Middle East & Africa,UAE,Malt Extract,Liquid,Macro Brewery,10005.68,2199.67,22009.19
+REC-10364,2033,Middle East & Africa,UAE,Beer Additives,Liquid,Microbrewery / Craft Brewery,19828.85,2093.66,41514.87
+REC-10492,2033,Middle East & Africa,UAE,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,20372.53,4072.74,82972.02
+REC-10115,2033,North America,Canada,Malt Extract,Dry,Microbrewery / Craft Brewery,21217.31,4323.31,91729.01
+REC-10219,2033,North America,Canada,Beer Additives,Liquid,Microbrewery / Craft Brewery,21814.24,1283.14,27990.72
+REC-10407,2033,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,17106.42,2858.68,48901.78
+REC-10448,2033,North America,Canada,Malt Extract,Liquid,Macro Brewery,19368.88,3433.9,66510.8
+REC-10019,2033,North America,Mexico,Hops,Liquid,Macro Brewery,15215.95,2628.29,39991.93
+REC-10039,2033,North America,Mexico,Hops,Dry,Microbrewery / Craft Brewery,687.77,3158.75,2172.49
+REC-10183,2033,North America,Mexico,Beer Yeast,Liquid,Microbrewery / Craft Brewery,4276.55,1339.99,5730.53
+REC-10237,2033,North America,Mexico,Malt Extract,Liquid,Macro Brewery,9970.24,2508.63,25011.64
+REC-10311,2033,North America,Mexico,Hops,Dry,Macro Brewery,7384.61,4384.55,32378.19
+REC-10383,2033,North America,Mexico,Hops,Liquid,Macro Brewery,17712.24,1425.91,25256.06
+REC-10491,2033,North America,Mexico,Adjuncts / Grains,Liquid,Macro Brewery,4100.59,2559.46,10495.3
+REC-10034,2033,North America,USA,Malt Extract,Liquid,Microbrewery / Craft Brewery,15464.11,3237.41,50063.66
+REC-10181,2033,North America,USA,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,11456.925,3126.45,35819.5
+REC-10189,2033,North America,USA,Hops,Dry,Microbrewery / Craft Brewery,7907.16,1538.3,12163.58
+REC-10222,2033,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,3558.11,3522.21,12532.41
+REC-10469,2033,North America,USA,Beer Additives,Liquid,Microbrewery / Craft Brewery,7921.44,4139.82,32793.34
+REC-10213,2034,Asia-Pacific,Australia,Beer Additives,Liquid,Microbrewery / Craft Brewery,13804.1,2837.65,39171.2
+REC-10254,2034,Asia-Pacific,Australia,Beer Additives,Liquid,Microbrewery / Craft Brewery,2030.21,3011.23,6113.43
+REC-10262,2034,Asia-Pacific,Australia,Beer Additives,Dry,Macro Brewery,17349.19,1425.57,24732.48
+REC-10343,2034,Asia-Pacific,Australia,Beer Additives,Dry,Macro Brewery,3778.79,2630.82,9941.32
+REC-10202,2034,Asia-Pacific,China,Beer Additives,Liquid,Microbrewery / Craft Brewery,12478.0,2104.44,26259.2
+REC-10289,2034,Asia-Pacific,China,Beer Additives,Liquid,Macro Brewery,12446.88,3525.03,43875.63
+REC-10148,2034,Asia-Pacific,India,Malt Extract,Liquid,Microbrewery / Craft Brewery,17089.46,2924.28,49974.37
+REC-10438,2034,Asia-Pacific,India,Beer Additives,Liquid,Macro Brewery,24105.73,2369.6,57120.94
+REC-10035,2034,Asia-Pacific,Japan,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,7376.74,4437.77,32736.28
+REC-10280,2034,Asia-Pacific,Japan,Hops,Liquid,Macro Brewery,18641.67,2625.66,48946.69
+REC-10044,2034,Europe,Belgium,Malt Extract,Liquid,Microbrewery / Craft Brewery,20163.35,3815.56,76934.47
+REC-10076,2034,Europe,Belgium,Beer Yeast,Dry,Microbrewery / Craft Brewery,15292.99,1591.06,24332.06
+REC-10236,2034,Europe,Belgium,Beer Additives,Dry,Macro Brewery,19164.06,3023.93,57950.78
+REC-10227,2034,Europe,Czech Republic,Beer Additives,Dry,Microbrewery / Craft Brewery,4145.5,3896.52,16153.02
+REC-10064,2034,Europe,France,Beer Additives,Liquid,Microbrewery / Craft Brewery,22736.47,2534.94,57635.59
+REC-10281,2034,Europe,France,Malt Extract,Liquid,Microbrewery / Craft Brewery,3999.83,4435.22,17740.13
+REC-10045,2034,Europe,Germany,Beer Yeast,Liquid,Microbrewery / Craft Brewery,14515.19,4196.07,60906.75
+REC-10068,2034,Europe,Germany,Beer Additives,Dry,Microbrewery / Craft Brewery,20682.86,2261.51,46774.49
+REC-10060,2034,Europe,UK,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,7230.92,3328.6949999999997,24069.53
+REC-10139,2034,Europe,UK,Hops,Dry,Macro Brewery,8974.0,4090.41,36707.34
+REC-10373,2034,Europe,UK,Adjuncts / Grains,Liquid,Macro Brewery,9997.4,3967.02,39659.89
+REC-10023,2034,Latin America,Argentina,Malt Extract,Dry,Macro Brewery,2237.84,1890.31,4230.21
+REC-10032,2034,Latin America,Argentina,Malt Extract,Liquid,Microbrewery / Craft Brewery,12310.01,4339.72,53422.0
+REC-10446,2034,Latin America,Argentina,Malt Extract,Dry,Microbrewery / Craft Brewery,3575.98,1839.75,6578.91
+REC-10247,2034,Latin America,Colombia,Hops,Liquid,Microbrewery / Craft Brewery,23923.16,3262.08,78039.26
+REC-10302,2034,Middle East & Africa,Kenya,Hops,Liquid,Macro Brewery,2383.12,1449.43,3454.17
+REC-10129,2034,Middle East & Africa,Nigeria,Beer Yeast,Liquid,Macro Brewery,14763.87,4304.59,63552.41
+REC-10269,2034,Middle East & Africa,Nigeria,Beer Yeast,Dry,Microbrewery / Craft Brewery,7329.62,2433.94,17839.86
+REC-10022,2034,Middle East & Africa,South Africa,Beer Yeast,Dry,Microbrewery / Craft Brewery,16035.55,2670.29,42819.57
+REC-10382,2034,Middle East & Africa,South Africa,Adjuncts / Grains,Liquid,Macro Brewery,23793.93,2920.78,69496.83
+REC-10406,2034,Middle East & Africa,South Africa,Beer Additives,Liquid,Microbrewery / Craft Brewery,5785.65,2664.93,15418.35
+REC-10207,2034,Middle East & Africa,UAE,Adjuncts / Grains,Liquid,Macro Brewery,14449.75,4429.13,63999.82
+REC-10370,2034,Middle East & Africa,UAE,Adjuncts / Grains,Dry,Macro Brewery,2687.59,3420.48,9192.85
+REC-10046,2034,North America,Canada,Hops,Dry,Macro Brewery,13060.36,4314.22,56345.27
+REC-10088,2034,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,23572.28,3104.5,73180.14
+REC-10102,2034,North America,Canada,Malt Extract,Liquid,Microbrewery / Craft Brewery,13582.2,1318.86,17913.02
+REC-10125,2034,North America,Canada,Beer Additives,Liquid,Microbrewery / Craft Brewery,10474.11,4021.6,42122.68
+REC-10141,2034,North America,Canada,Beer Yeast,Liquid,Macro Brewery,10901.255,2132.16,23243.22
+REC-10152,2034,North America,Canada,Beer Yeast,Dry,Microbrewery / Craft Brewery,24706.88,2203.86,54450.5
+REC-10178,2034,North America,Canada,Adjuncts / Grains,Dry,Microbrewery / Craft Brewery,24047.82,3540.76,85147.56
+REC-10172,2034,North America,Mexico,Beer Additives,Liquid,Macro Brewery,8192.18,3286.53,26923.85
+REC-10180,2034,North America,Mexico,Malt Extract,Liquid,Microbrewery / Craft Brewery,13171.015,3776.08,49734.81
+REC-10188,2034,North America,Mexico,Adjuncts / Grains,Liquid,Microbrewery / Craft Brewery,11290.81,3704.72,41829.29
+REC-10203,2034,North America,Mexico,Hops,Liquid,Macro Brewery,10343.58,3863.33,39960.66
+REC-10353,2034,North America,Mexico,Hops,Liquid,Microbrewery / Craft Brewery,2035.9,3208.395,6531.97
+REC-10314,2034,North America,USA,Malt Extract,Liquid,Macro Brewery,10425.02,3531.88,36819.92
