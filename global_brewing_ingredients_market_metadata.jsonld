@@ -1,35 +1,30 @@
 {
-    "@context": "https://schema.org/",
-    "@type": "Dataset",
-    "name": "Global Brewing Ingredients Market Dataset (2025-2034)",
-    "description": "Granular 500-row dataset tracking global brewing ingredients market sales volume, average price, and revenue by region, country, ingredient category, form, and brewery type from 2025 to 2034.",
-    "url": "https://github.com/your-username/global-brewing-ingredients-market",
-    "identifier": {
-        "@type": "PropertyValue",
-        "propertyID": "DOI",
-        "value": "10.5281/zenodo.12345678"
-    },
-    "license": "https://creativecommons.org/licenses/by/4.0/",
-    "isAccessibleForFree": true,
-    "creator": {
-        "@type": "Organization",
-        "name": "Global Brewing Market Research Group"
-    },
-    "temporalCoverage": "2025/2034",
-    "spatialCoverage": {
-        "@type": "AdministrativeArea",
-        "name": "Global"
-    },
-    "distribution": [
-        {
-            "@type": "DataDownload",
-            "encodingFormat": "text/csv",
-            "contentUrl": "https://raw.githubusercontent.com/your-username/global-brewing-ingredients-market/main/global_brewing_ingredients_market_cleaned.csv"
-        },
-        {
-            "@type": "DataDownload",
-            "encodingFormat": "application/ld+json",
-            "contentUrl": "https://raw.githubusercontent.com/your-username/global-brewing-ingredients-market/main/global_brewing_ingredients_market_metadata.jsonld"
-        }
-    ]
+  "@context": "https://schema.org/",
+  "@type": "Dataset",
+  "name": "Global Brewing Ingredients Market Dataset (2025-2034)",
+  "description": "Granular 500-row dataset tracking global brewing ingredients market sales volume, average price, and revenue by region, country, ingredient category, form, and brewery type from 2025 to 2034.",
+  "url": "https://doi.org/10.5281/zenodo.YOUR_ZENODO_DOI",
+  "identifier": {
+    "@type": "PropertyValue",
+    "propertyID": "DOI",
+    "value": "10.5281/zenodo.24176824"
+  },
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "isAccessibleForFree": true,
+  "creator": {
+    "@type": "Organization",
+    "name": "Global Brewing Market Research Group"
+  },
+  "temporalCoverage": "2025/2034",
+  "spatialCoverage": {
+    "@type": "AdministrativeArea",
+    "name": "Global"
+  },
+  "distribution": [
+    {
+      "@type": "DataDownload",
+      "encodingFormat": "text/csv",
+      "contentUrl": "https://raw.githubusercontent.com/dwaraka27/global-brewing-market/main/global_brewing_ingredients_market_cleaned.csv"
+    }
+  ]
 }
